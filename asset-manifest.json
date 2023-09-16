@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Movie-App/static/css/main.61996ae8.css",
+    "main.js": "/Movie-App/static/js/main.26c3e94d.js",
+    "static/js/787.7c42db31.chunk.js": "/Movie-App/static/js/787.7c42db31.chunk.js",
+    "static/media/Poster.png": "/Movie-App/static/media/Poster.a37f7a10b6a2578ccf01.png",
+    "index.html": "/Movie-App/index.html",
+    "static/media/Menu.svg": "/Movie-App/static/media/Menu.9f31ea026f5c6f4442c9c85fa02e39d7.svg",
+    "static/media/Play.svg": "/Movie-App/static/media/Play.9417147bc6d0510a775f9e5eccfb8099.svg",
+    "static/media/Search.svg": "/Movie-App/static/media/Search.f811fa2f52903f84c67403966d5b2639.svg",
+    "static/media/Chevron right.svg": "/Movie-App/static/media/Chevron right.5b8f3ede2046c9b49516828baf09a822.svg",
+    "main.61996ae8.css.map": "/Movie-App/static/css/main.61996ae8.css.map",
+    "main.26c3e94d.js.map": "/Movie-App/static/js/main.26c3e94d.js.map",
+    "787.7c42db31.chunk.js.map": "/Movie-App/static/js/787.7c42db31.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.61996ae8.css",
+    "static/js/main.26c3e94d.js"
+  ]
+}
